@@ -15,4 +15,5 @@ This is a full-stack e-commerce store application built with:
 ⚙️ Work in progress — setting up the project
 
 ## 📁 Structure (to be added)
-
+├── client/ # React frontend
+├── server/ # Node backend
